@@ -13,4 +13,4 @@ elif age < 13:
     print("You qualify for the kiddie discount.")
 else:
     print("Age is just a number")
-        
+     # code works and the right age will select status   
